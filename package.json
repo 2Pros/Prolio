@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/2Pros/Prolio#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.1.7",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.1.0",
-    "gulp-watch": "^4.3.11"
+    "gulp-watch": "^4.3.11",
+    "karma-jasmine": "^1.1.0"
   }
 }
