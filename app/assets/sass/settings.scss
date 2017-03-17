@@ -1,9 +1,12 @@
+$font : 'Open Sans';
+
 body {
-  font-family: 'Open Sans';
+  font-family: $font;
   font-size: 13px;
   line-height:20px;
   color: #5e5e5e;
   background-color: #edecec;
+  text-align: center;
 }
 h1{
     font-size: 34px;
