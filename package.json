@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Pros/Prolio.git"
+  },
+  "author": "2Pros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Pros/Prolio/issues"
+  },
+  "homepage": "https://github.com/2Pros/Prolio#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
